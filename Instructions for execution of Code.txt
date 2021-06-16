@@ -1,0 +1,11 @@
+Step 1: Download the 'Covid19 Tweets data' and 'News headlines' datasets
+
+Step 2: Run the file named 'Step-1 (Data Preparation).ipynb'
+	(A csv file will be generated named 'tweets_transformed_new.csv')
+Note: The new generated csv file will be required in Step 3.
+
+Step 3: Run the file named 'Step-2 (Combining news and covid data).ipynb'
+	(A csv file will be generated named 'tweets_transformed_new_with_new_column.csv')
+Note: The csv file generated in this code will be required in Step 4.
+
+Step 4: Run the file named 'Step-3 (Data_analysis).ipynb'
